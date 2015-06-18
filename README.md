@@ -6,7 +6,7 @@ This is v2 of our routes and plugin that includes a new table since some social 
 Supports [GitHub Updater](https://github.com/afragen/github-updater)
   
 # API SETUP #
-You will need to go to Settings > Social API to configure the API's you want to use. As of now we are only supporting _Facbeook_, _Twitter_, and _GitHub_.  
+You will need to go to Settings > Social API to configure the API's you want to use. As of now we are only supporting _Facebook_, _Twitter_, and _GitHub_.  
   
 Do you want us to support more? Go to [hellojs](http://adodson.com/hello.js/) and create an issue in this GitHub repo with any supported social network and we will add it in.  
   
